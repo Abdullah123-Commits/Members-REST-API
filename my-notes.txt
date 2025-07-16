@@ -1,0 +1,6 @@
+                            EXPRESS JS
+it is a backend framework.
+FAST => high performance.
+MINIMALIST.
+IT CAN BE USED ALONGSIDE CLIENT-SIDE FRAMEWORKS TO BUILD FULL STACK APPS
+
